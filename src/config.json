@@ -9,7 +9,7 @@
 				"secure": false
 			}
 		],
-		"BOT_TOKEN": "",
+		"BOT_TOKEN": "MTQzMzY2MDM2ODg5MDIzNjk1OA.GWwyDk.qc8ow-9jbjvUS04js0zv-QZ_rWDcXVS8njoUhs",
 		"TEST_BOT_TOKEN": "",
 		"Mongo_DB": "",
 		"Prefix": "/",
@@ -17,7 +17,7 @@
 		"Status": "DND",
 		"Type": "PLAYING",
 		"Activity": "/help",
-		"Owner_ID": [],
+		"Owner_ID": [1357692362612146228],
 		"Basis_permissions": [
 			"MANAGE_GUILD",
 			"MANAGE_MESSAGES",
